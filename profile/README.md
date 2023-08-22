@@ -54,6 +54,6 @@ We prioritize quality in every step of the process. Our rigorous testing involve
 
 Ready to embark on a tech solution journey? Feel free to reach out to us at TheOneWeb.
 
-Email: contact@theoneweb.co.uk
+Email: info@theoneweb.co.uk
 
 Website: [www.theoneweb.co.uk](https://www.theoneweb.co.uk)
